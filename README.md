@@ -4,7 +4,7 @@
 ### Members: 
 | Nama          | Student ID | Path              | LinkedIn                                      |
 |---------------|------------|-------------------|-----------------------------------------------|
-| Dwi Andhara Valkyrie      | M497D4KX3132  | Machine Learning  | [Dhara](https://www.linkedin.com/in/dwi-andhara-valkyrie/) |
+| Dwi Andhara Valkyrie      | M497D4KX3132  | Machine Learning  | [Dhara](https://www.linkedin.com/in/dwiandharavalkyrie/) |
 | Priskila Christine Natalia Parapat    | M114D4KX2213  | Machine Learning| [Priskila](https://www.linkedin.com/in/priskilaparapat/) |
 | Tubagus Aldi Maulana Yusuf    | M288D4KY2835  | Machine Learning| [Aldi](http://www.linkedin.com/in/tubagusaldi) |
 | Bagus Triyudanto    | C116D4KY0582  | Cloud Computing| [Bagus](https://www.linkedin.com/in/bagus-triyudanto-83a92b2a6/) |
