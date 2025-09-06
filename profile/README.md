@@ -22,6 +22,6 @@ Our team's drive for this project is rooted in our collective experiences, share
 
 
 ## Documentation:
-### [Machine Learning](https://github.com/Spiceify/Spiceify/tree/main/ML)
-### [Mobile Development](https://github.com/Spiceify/Spiceify/tree/main/MD)
-### [Cloud Computing](https://github.com/Spiceify/Spiceify/tree/main/CC)
+### [Machine Learning](https://github.com/Spiceify/Spiceify/tree/main/ML) 🤖
+### [Mobile Development](https://github.com/Spiceify/Spiceify/tree/main/MD) 📱
+### [Cloud Computing](https://github.com/Spiceify/Spiceify/tree/main/CC) ☁️
