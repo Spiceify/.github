@@ -21,7 +21,7 @@ Current methods of identifying rempah-rempah often rely on visual inspection, le
 Our team's drive for this project is rooted in our collective experiences, shared passion for culinary exploration, and recognition of market demand. Personal challenges in identifying and utilizing Indonesian spices sparked the initial idea, fueled by our desire to deepen our understanding of our rich culinary heritage. Seeing a gap in the market for a comprehensive spice identification solution, we envisioned leveraging cutting-edge technology such as machine learning and AI to simplify spice recognition and enhance culinary experiences. Moreover, the potential social impact of promoting Indonesian spices and facilitating culinary exploration further motivated us to embark on this journey.
 
 
-###Documentation:
-## [Machine Learning](https://github.com/Spiceify/Spiceify/tree/main/ML)
-## [Mobile Development](https://github.com/Spiceify/Spiceify/tree/main/MD)
-## [Cloud Computing](https://github.com/Spiceify/Spiceify/tree/main/CC)
+## Documentation:
+### [Machine Learning](https://github.com/Spiceify/Spiceify/tree/main/ML)
+### [Mobile Development](https://github.com/Spiceify/Spiceify/tree/main/MD)
+### [Cloud Computing](https://github.com/Spiceify/Spiceify/tree/main/CC)
